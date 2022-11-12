@@ -15,7 +15,7 @@ function Games() {
 						</li>
 
 						<li>
-							<a target="_blank" rel="noreferrer" href="https://miteprod.vercel.app/games/apocdoom/downloads/ApocDoomEp1.wad">
+							<a target="_blank" rel="noreferrer" href="/games/apocdoom/e1/">
 								Apocalypse Doom Episode 1 - Zaethar
 							</a>
 						</li>
