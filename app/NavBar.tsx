@@ -34,6 +34,12 @@ function NavBar() {
                             About
                         </Link>
                     </li>
+
+					<li className="navbar-item">
+                        <Link href="https://github.com/TheBlueRuby/miteprod-site-react/" className="navbar-link" target="_blank" rel="noreferrer">
+                            Source
+                        </Link>
+                    </li>
                 </ul>
             </div>
         </div>
