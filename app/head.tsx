@@ -17,7 +17,7 @@ export default function Head() {
                 property="og:description"
             />
             <meta content="/" property="og:url" />
-            <meta content="/images/banner.png" property="og:image" />
+            <meta content="/banner.png" property="og:image" />
             <meta content="#00BBFF" name="theme-color" />
         </>
     );
