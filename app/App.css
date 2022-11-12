@@ -43,3 +43,8 @@ blockquote {
 	border-color: #0CD;
 	background-color: rgba(0, 0, 0, 0.25);
 }
+
+code {
+	color: #0CA;
+	font-family: 'Courier New', Courier, monospace;
+}
