@@ -13,13 +13,29 @@ function Games() {
 								Backrooms First Contact PC - TheBlueRuby
 							</a>
 						</li>
+
+						<li>
+							<a target="_blank" rel="noreferrer" href="https://miteprod.vercel.app/games/apocdoom/downloads/ApocDoomEp1.wad">
+								Apocalypse Doom Episode 1 - Zaethar
+							</a>
+						</li>
 					</ul>
 
 					<h3>WIP</h3>
 					<ul>
 						<li>
-							<a target="_blank" rel="noreferrer" href="https://miteprod.vercel.app/games/apocdoom/downloads/ApocDoomEp1.wad">
+							<a href="/games/apocdoom">
 								Apocalypse Doom - Zaethar
+							</a>
+						</li>
+
+						<li>
+							<p>Red - Zaethar</p>
+						</li>
+
+						<li>
+							<a target="_blank" rel="noreferrer" href="https://github.com/TheBlueRuby/yet-another-metroidvania/">
+								Yet Another Metroidvania - TheBlueRuby
 							</a>
 						</li>
 					</ul>
@@ -30,7 +46,7 @@ function Games() {
 				<h2>Series</h2>
 				<ul>
 					<li>
-						<a target="_blank" rel="noreferrer" href="/games/ultramite/">
+						<a href="/games/ultramite/">
 							Ultramite
 						</a>
 					</li>

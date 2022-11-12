@@ -9,6 +9,7 @@ export default function RootLayout({ children }) {
                 <div className="page-content">
 					{children}
 				</div>
+				<br />
             </body>
         </html>
     );
