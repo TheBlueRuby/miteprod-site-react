@@ -6,6 +6,7 @@ import Homepage from "./Homepage";
 import About from "./About";
 import Games from "./games/Games";
 import Globals from "./Globals";
+import Err404 from "./Errors"
 
 function App() {
     return (
@@ -16,6 +17,7 @@ function App() {
                     <Route exact path="/" element={<Homepage />} />
                     <Route exact path="/about" element={<About />} />
                     <Route exact path="/games" element={<Games />} />
+					<Route path="*" element={<Err404 />} />
                 </Routes>
             </div>
         </div>
