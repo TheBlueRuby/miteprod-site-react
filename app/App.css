@@ -5,8 +5,14 @@
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
+html {
 	background: linear-gradient(#00b, #0af);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 100vh;
+}
+
+body {
 	margin: 0;
 }
 
