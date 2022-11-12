@@ -1,4 +1,6 @@
-import NavBar from "./NavBar";
+import NavBar from "./NavBar"
+import "./App.css";
+import "./NavBar.css";
 
 function Globals(props) {
     return (
