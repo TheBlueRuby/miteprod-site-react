@@ -9,7 +9,7 @@ function NavBar() {
                     <li className="navbar-item">
                         <Link href="/" className="navbar-link" style={{padding: 0}}>
                             <img
-                                src="logo1k.png"
+                                src="/logo1k.png"
                                 width={48}
                                 height={48}
                                 className="navbar-icon"
