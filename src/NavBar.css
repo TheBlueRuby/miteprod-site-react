@@ -1,18 +1,17 @@
 .navbar {
 	display: flex;
-	max-width: 90vw;
+	width: 100vw !important;
 	height: 50px;
 	background-color: #0af;
 	position: sticky;
 	position: -webkit-sticky;
 	white-space: nowrap;
-	margin: auto;
+	margin: 0;
 	padding: 0;
 	overflow: hidden;
 	overflow-x: auto;
 	max-height: 50px;
 	justify-content: left;
-	border-radius: 4px;
 	top: -1px;
 	transition: all 100ms ease-in-out;
 	flex-wrap: nowrap;

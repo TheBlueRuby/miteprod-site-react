@@ -9,7 +9,15 @@ html {
 }
 
 body {
+	margin: 0;
+}
+
+.page-content {
 	max-width: 90vw;
 	margin: auto;
 	color: #fff;
+}
+
+a {
+	color: #0f0;
 }
